@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @rodneyspark
-- 👀 I’m interested in ...hikes,movies, coding, and listen to music
-- 🌱 I’m currently learning ...javascript,angular,and python
+- 👀 I’m interested in ...python and angular
+- 🌱 I’m currently learning ...angular and python
 - 💞️ I’m looking to collaborate on ...bigger company and large work sapces
 - 📫 How to reach me ...
           rodneyakuru@gmail.com
+          
 
 <!---
 rodneyspark/rodneyspark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
